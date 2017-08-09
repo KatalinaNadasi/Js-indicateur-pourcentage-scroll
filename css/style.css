@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 5000px;
+}
+
+.boxBar {
+  width: 100%;
+  border: 5px solid #FE4365;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.bar {
+  height: 30px;
+  width: 0%;
+  background-color: #FE913D;
+}
+
+h1 {
+  text-align: center;
+  margin: 60px;
+}
